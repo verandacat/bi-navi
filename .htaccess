@@ -1,0 +1,18 @@
+<ifModule mod_headers.c>
+Header set Vary User-Agent
+</ifModule>
+
+RewriteEngine Off
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} (iPhone|iPod|Android.*Mobile|Windows.*Phone|BlackBerry)
+RewriteRule ^$ iphone/redirect.php?f=index\.php [QSA,L]
+RewriteCond %{HTTP_USER_AGENT} (iPhone|iPod|Android.*Mobile|Windows.*Phone|BlackBerry)
+RewriteRule ^(.*)\.php iphone/redirect.php?f=$1\.php [QSA,L]
+RewriteCond %{HTTP_USER_AGENT} (iPhone|iPod|Android.*Mobile|Windows.*Phone|BlackBerry)
+RewriteRule ^(.*)\.css iphone/$1.css [QSA,L]
+RewriteCond %{HTTP_USER_AGENT} (iPhone|iPod|Android.*Mobile|Windows.*Phone|BlackBerry)
+RewriteRule ^img/(.*) iphone/img/$1 [QSA,L]
+RewriteCond %{HTTP_USER_AGENT} (iPhone|iPod|Android.*Mobile|Windows.*Phone|BlackBerry)
+RewriteRule ^(.*)/ iphone/redirect.php?f=$1/index\.php [QSA,L]
+RewriteCond %{HTTP_USER_AGENT} (iPhone|iPod|Android.*Mobile|Windows.*Phone|BlackBerry)
+RewriteRule ^(.*) iphone/$1 [QSA,L]
