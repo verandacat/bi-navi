@@ -99,20 +99,6 @@
            </p>
          </th>
 
-
-         <th style="vertical-align: top">
-           <p>
-             <a class="link-img" target="_blank" href="./links/tablet-k.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
-               <img src="./img/tablet-k.jpg" alt="" />
-             </a>
-           </p>
-           <p>
-             <span class="lbg">
-               <a target="_blank" href="./links/tablet-k.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">空腹時血糖値が気になる方のタブレット</a>
-             </span>
-           </p>
-         </th>
-
        <th style="vertical-align: top">
            <p>
              <a class="link-img" target="_blank" href="./links/tablet-s.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
@@ -126,18 +112,18 @@
            </p>
          </th>
 
-         <!-- <th>
+         <th style="vertical-align: top">
            <p>
-             <a class="link-img" target="_blank" href="./links/sibo.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
-               <img src="./img/shiboh.jpg" alt="" />
+             <a class="link-img" target="_blank" href="./links/tablet-k.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
+               <img src="./img/tablet-k.jpg" alt="" />
              </a>
            </p>
            <p>
              <span class="lbg">
-               <a target="_blank" href="./links/sibo.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">シボヘール</a>
+               <a target="_blank" href="./links/tablet-k.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">空腹時血糖値が気になる方のタブレット</a>
              </span>
            </p>
-         </th> -->
+         </th>
 
          </tr>
 
@@ -198,12 +184,12 @@
          </td>
          <td>
              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-             <p>ナリンジン</p>
+             <p>サラシノール</p>
          </td>
          <td>
              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
              <p>
-             サラシノール
+             ナリンジン
              </p>
 
          </td>
@@ -254,12 +240,12 @@
 
          <td>
            <p class="left ml-5">
-           ・健康診断で血糖値が高めの人<br>・今の血糖値対策に満足していない人
+           ・食後の血糖値が気になる人<br>・糖の吸収を抑えたい人
            </p>
          </td>
          
          <td>
-         <p class="left ml-5">・食後の血糖値が気になる人<br>・糖の吸収を抑えたい人</p>
+         <p class="left ml-5">・健康診断で血糖値が高めの人<br>・今の血糖値対策に満足していない人</p>
          </td>
 
        </tr>
@@ -282,13 +268,12 @@
 
          <td>
              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-             <p>4,374円（税込</p>
-             <!-- <p>3,218円</p> -->
+             <p>3,888円（税込）</p>
          </td>
 
          <td>
              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-             <p>3,888円（税込）</p>
+            <p>4,374円（税込</p>
 
          </td>
 
@@ -311,7 +296,6 @@
          <td style="width:27%">
              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
              <p>初回1,058円（税込）</p>
-
          </td>
 
          <td style="width:27%">
@@ -337,14 +321,14 @@
          </td>
 
          <td>
-             <a target="_blank" href="./links/tablet-k.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
+             <a target="_blank" href="./links/tablet-s.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
                <img src="./img/n_img/btn_site_go_s.png" width="100%">
              </a>
          </td>
 
 
          <td>
-             <a target="_blank" href="./links/tablet-s.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
+             <a target="_blank" href="./links/tablet-k.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
                <img src="./img/n_img/btn_site_go_s.png" width="100%">
              </a>
          </td>
