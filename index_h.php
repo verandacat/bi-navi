@@ -234,11 +234,11 @@
                 </td>
                 <td>
                     <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                    <p>初回980円</p>
+                    <p>初回1,078円</p>
                 </td>
                 <td>
                     <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                    <p>なし<br>希望小売価格：4,300円</p>
+                    <p>なし<br>希望小売価格：4,730円</p>
                 </td>
             </tr>
 

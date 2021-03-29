@@ -330,12 +330,12 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                        <p>5,800円（税込）</p>
+                        <p>6,264円（税込）</p>
                     </td>
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                        <p>4,980円（税込）</p>
+                        <p>5,400円（税込）</p>
                     </td>
 
 
@@ -381,13 +381,13 @@
                     </td>
 
                     <td>
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>初回500円（税込）</p>
+                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <p>初回2,365円（税込）</p>
                     </td>
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>初回498円（税込）</p>
+                        <p>初回465円（税込）</p>
                     </td>
                 <!-- <td>
                               <img class="small" src="./img/n_img/r_check_01.png" alt="" />

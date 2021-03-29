@@ -284,13 +284,13 @@
 
         <td>
           <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-          <p>3,980円</p>
+          <p>4,378円</p>
 
         </td>
 
         <td>
           <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-          <p>5,800円</p>
+          <p>6,264円</p>
 
         </td>
 
@@ -311,8 +311,8 @@
         </td>
 
         <td>
-          <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-          <p>初回500円</p>
+          <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+          <p>初回2,178円</p>
         </td>
 
         <td>
