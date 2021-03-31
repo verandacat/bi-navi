@@ -325,17 +325,17 @@
 
                 <td>
                         <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                        <p>5,687円（税込）</p>
+                        <p>3,980円（税込）</p>
                     </td>
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                        <p>6,264円（税込）</p>
+                        <p>4,730円（税込）</p>
                     </td>
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                        <p>5,400円（税込）</p>
+                        <p>3,960円（税込）</p>
                     </td>
 
 

@@ -234,7 +234,7 @@
                 </td>
                 <td>
                     <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                    <p>初回1,078円</p>
+                    <p>初回1,058円</p>
                 </td>
                 <td>
                     <img class="small" src="./img/n_img/r_check_03.png" alt="" />

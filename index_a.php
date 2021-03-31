@@ -299,12 +299,12 @@
 
                 <td>
                     <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                    <p>30日分 4,524円</p>
+                    <p>30日分 4,441円</p>
                 </td>
 
                 <td>
                     <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                    <p>4,410円</p>
+                    <p>3,810円</p>
                 </td>
 
             </tr>
@@ -326,12 +326,12 @@
 
                 <td>
                     <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                    <p>14日分(初回限定・お一人様1回1個限り) 550円</p>
+                    <p>14日分(初回限定・お一人様1回1個限り) 540円</p>
                 </td>
 
                 <td>
                     <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                    <p>初回1,078円</p>
+                    <p>初回1,058円</p>
                 </td>
 
             </tr>
