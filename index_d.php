@@ -295,12 +295,12 @@
 
          <td style="width:27%">
              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-             <p>初回1,058円（税込）</p>
+             <p>初回980円（税込）</p>
          </td>
 
          <td style="width:27%">
              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-             <p>初回1,058円（税込）</p>
+             <p>初回980円（税込）</p>
          </td>
 
          </tr>
