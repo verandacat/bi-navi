@@ -666,7 +666,7 @@
 
                 </tbody>
             </table>
-           
+
 
 
             <div class="r-txtbox">
@@ -1417,6 +1417,11 @@
                 </div>
                 <?php endif; ?>
                 <?php if ($i === 3) : ?>
+                <?php elseif($i === 1) : ?>
+                <a target="_blank" href="<?php echo $url; ?><?php echo "?".$_SERVER['QUERY_STRING']; ?>"
+                    target="_blank">
+                    <span class="link_txt">クーポン付きキャンペーンページはこちら</span>
+                </a>
                 <?php else : ?>
                 <a target="_blank" href="<?php echo $url; ?><?php echo "?" . $query2; ?>" target="_blank">
                     <span class="link_txt"><?php echo $catch; ?><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>

@@ -1063,7 +1063,7 @@
 
 
 
-    <!-- #tab6 ドリンクランキング -->
+    <!-- #tab7 スムージランキング -->
     <div id="tab7" class="tab_content">
 
         <?php wp_reset_postdata();
@@ -1227,7 +1227,7 @@
 
 
 
-    <!-- #tab8 ドリンクランキング -->
+    <!-- #tab8 防風通聖散ランキング -->
     <div id="tab8" class="tab_content">
 
         <?php wp_reset_postdata();
@@ -1332,6 +1332,10 @@
             <?php endif; ?>
 
             <?php if ($i === 3) : ?>
+            <?php elseif($i === 1) : ?>
+            <a target="_blank" href="<?php echo $url; ?><?php echo "?".$_SERVER['QUERY_STRING']; ?>" target="_blank">
+                <span class="link_txt">クーポン付きキャンペーンページはこちら</span>
+            </a>
             <?php else : ?>
             <a target="_blank" href="<?php echo $url; ?><?php echo "?".$_SERVER['QUERY_STRING']; ?>" target="_blank">
                 <span class="link_txt"><?php echo $catch; ?><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
