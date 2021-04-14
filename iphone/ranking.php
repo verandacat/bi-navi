@@ -1142,7 +1142,7 @@
             <?php wp_reset_postdata();
 
             $args = array(
-                'posts_per_page' => '3',
+                'posts_per_page' => '5',
                 'category_name' => 'smoothie',
                 'post_type' => 'post',
                 'meta_key' => 'smoothierank',
@@ -1183,14 +1183,7 @@
                                 <a target="_blank" href="<?php echo $url; ?><?php echo "?" . $query2; ?>"
                                     target="_blank">
                                     <span class="f-13">
-                                        <?php if ($i === 1) : ?>
-                                        シボヘール<br>GOLDスムージー
-                                        <?php elseif ($i === 2) : ?>
-                                        イージー<br>スムージーグリーン
-                                        <?php elseif ($i === 3) : ?>
-                                        わたしと<br>よりそうスムージー
-                                        <?php else : ?>
-                                        <?php endif; ?>
+                                        <?php the_title(); ?>
                                     </span>
                                 </a>
                             </p>　
