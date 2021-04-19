@@ -120,12 +120,31 @@
             <div class="r-txtbox">
 
                 <?php echo $content; ?>
-
-
+                <?php if ($i === 4) : ?>
+                <div class="coupon-box">
+                    <div style="text-align: left"><span class="rred tenmetsu f-13">速報！！</span></div>
+                    <div>
+                        <a href="./links/bouhu.php<?php echo "?" . $query2; ?>" target="_blank">
+                            <img src="./img/coupon.jpg">
+                        </a>
+                    </div>
+                    <div class="coupon-text">
+                        <div style="text-align: left"><span class="bold f-13">公式サイト限定！</span></div>
+                        <div><span class="rred">＼更に1000円OFFクーポンをプレゼント／</span></div>
+                    </div>
+                    ※上記、クーポンコードを購入確認画面でご入力ください。
+                </div>
+                <?php endif; ?>
+                <?php if($i === 4) : ?>
+                <a target="_blank" href="<?php echo $url; ?><?php echo "?".$_SERVER['QUERY_STRING']; ?>"
+                    target="_blank">
+                    <span class="link_txt">クーポン付きページはこちら</span>
+                </a>
+                <?php else : ?>
                 <a target="_blank" href="<?php echo $url; ?><?php echo "?" . $query2; ?>" target="_blank">
                     <span class="link_txt"><?php echo $catch; ?><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
                 </a>
-
+                <?php endif; ?>
 
             </div>
 
@@ -1413,7 +1432,7 @@
                 <?php elseif($i === 1) : ?>
                 <a target="_blank" href="<?php echo $url; ?><?php echo "?".$_SERVER['QUERY_STRING']; ?>"
                     target="_blank">
-                    <span class="link_txt">クーポン付きキャンペーンページはこちら</span>
+                    <span class="link_txt">クーポン付きページはこちら</span>
                 </a>
                 <?php else : ?>
                 <a target="_blank" href="<?php echo $url; ?><?php echo "?" . $query2; ?>" target="_blank">
