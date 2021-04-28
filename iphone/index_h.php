@@ -263,7 +263,7 @@
                 </td>
                 <td>
                     <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                    <p>ずっと2,090円OF<span class="rred">しかも公式サイト限定で1000円OFFクーポン付き</span></p>
+                    <p>ずっと2,090円OF<span class="rred">しかも公式サイト限定で1,100円（税込）OFFクーポン付き</span></p>
                 </td>
                 <td>
                     <img class="small" src="./img/n_img/r_check_01.png" alt="" />

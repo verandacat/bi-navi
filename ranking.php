@@ -98,7 +98,7 @@
                 </div>
                 <div class="coupon-text">
                     <div style="text-align: left"><span class="bold f-13">公式サイト限定！</span></div>
-                    <div><span class="rred">＼更に1000円OFFクーポンをプレゼント／</span></div>
+                    <div><span class="rred">＼更に1,100円（税込）OFFクーポンをプレゼント／</span></div>
                 </div>
                 ※上記、クーポンコードを購入確認画面でご入力ください。
             </div>
@@ -1344,7 +1344,7 @@
                 </div>
                 <div class="coupon-text">
                     <div style="text-align: left"><span class="bold f-13">公式サイト限定！</span></div>
-                    <div><span class="rred">＼更に1000円OFFクーポンをプレゼント／</span></div>
+                    <div><span class="rred">＼更に1,100円（税込）OFFクーポンをプレゼント／</span></div>
                 </div>
                 ※上記、クーポンコードを購入確認画面でご入力ください。
             </div>
