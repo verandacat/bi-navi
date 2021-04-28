@@ -102,25 +102,7 @@
                                 href="https://bi-navi.com/links/gold.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">シボヘールGOLDスムージー</a>
                         </span>
                     </p>
-
                 </th>
-
-
-                <th>
-                    <p>
-                        <a class="link-img" target="_blank"
-                            href="https://bi-navi.com/links/ease.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
-                            <img src="./img/ease.jpg" alt="" />
-                        </a>
-                    </p>
-                    <p>
-                        <span class="lbg">
-                            <a target="_blank"
-                                href="https://bi-navi.com/links/ease.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">イージースムージーグリーン</a>
-                        </span>
-                    </p>
-                </th>
-
 
 
                 <th>
@@ -134,6 +116,22 @@
                         <span class="lbg">
                             <a target="_blank"
                                 href="https://bi-navi.com/links/easyb.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">EASY B-BODY</a>
+                        </span>
+                    </p>
+                </th>
+
+
+                <th>
+                    <p>
+                        <a class="link-img" target="_blank"
+                            href="https://bi-navi.com/links/1day.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
+                            <img src="./img/1day.png" alt="" />
+                        </a>
+                    </p>
+                    <p>
+                        <span class="lbg">
+                            <a target="_blank"
+                                href="https://bi-navi.com/links/1day.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">ワンデークレンズ</a>
                         </span>
                     </p>
                 </th>
@@ -173,7 +171,7 @@
                         <img src="./img/review_4.gif" alt="" />
                     </p>
 
-                    <p class="f-15">4.2/5.0</p>
+                    <p class="f-15">4.0/5.0</p>
 
                 </td>
 
@@ -192,15 +190,16 @@
                     <img class="small" src="./img/n_img/r_check_01.png" alt="" />
                     <p>グルコマンナン、アフリカマンゴノキ、乳酸菌、食物繊維、アミノ酸、239種の植物発酵エキス</p>
                 </td>
+                
                 <td>
                     <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                    <p>葛の花由来イソフラボン</p>
-                </td>
-                <td>
-                    <img class="small" src="./img/n_img/r_check_02.png" alt="" />
                     <p>大豆イソフラボン、ワイルドヤム配合、10種のビタミン、レタス1.2個分の食物繊維</p>
                 </td>
 
+                <td>
+                    <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                    <p>40種類以上の植物発酵エキス、国内製造米、ジンジャースープ</p>
+                </td>
             </tr>
 
 
@@ -223,7 +222,7 @@
                 </td>
 
                 <td>
-                    <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                    <img class="small" src="./img/n_img/r_check_01.png" alt="" />
 
                 </td>
 
@@ -243,11 +242,11 @@
                 </td>
 
                 <td>
-                    <p>・空腹を抑えながら脂肪を減らしたい<br>・機能性表示食品を試したい</p>
+                    <p>・置き換えダイエットをしたい人<br>・空腹のストレスを抑えたい人</p>
                 </td>
 
                 <td>
-                    <p>・置き換えダイエットをしたい人<br>・空腹のストレスを抑えたい人</p>
+                    <p>・ファスティングダイエットをしたい人<br>・お手軽にファスティングを行いたい人</p>
                 </td>
 
             </tr>
@@ -269,13 +268,13 @@
 
                 <td>
                     <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                    <p>5,184円</p>
+                    <!-- <p>7,452円</p> -->
+                    <p>7,020円</p>
                 </td>
 
                 <td>
                     <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                    <!-- <p>7,452円</p> -->
-                    <p>7,150円</p>
+                    <p>6,458円</p>
                 </td>
 
             </tr>
@@ -296,15 +295,15 @@
                 </td>
 
                 <td>
-                    <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                    <p>初回1,069円</p>
-                </td>
-
-                <td>
                     <img class="small" src="./img/n_img/r_check_02.png" alt="" />
                     <p>初回2,106円</p>
                 </td>
 
+                <td>
+                    <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                    <!-- <p>10,200円<br>（ドリンク2本、サプリ1袋）</p> -->
+                    <p>初回2,138円</p>
+                </td>
             </tr>
 
 
@@ -324,16 +323,17 @@
                     </a>
                 </td>
 
-                <td>
-                    <a target="_blank"
-                        href="https://bi-navi.com/links/ease.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
-                        <img src="./img/n_img/btn_site_go_s.png" width="100%">
-                    </a>
-                </td>
-
+               
                 <td>
                     <a target="_blank"
                         href="https://bi-navi.com/links/easyb.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
+                        <img src="./img/n_img/btn_site_go_s.png" width="100%">
+                    </a>
+                </td>
+                
+                <td>
+                    <a target="_blank"
+                        href="https://bi-navi.com/links/1day.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
                         <img src="./img/n_img/btn_site_go_s.png" width="100%">
                     </a>
                 </td>

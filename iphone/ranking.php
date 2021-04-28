@@ -1161,7 +1161,7 @@
             <?php wp_reset_postdata();
 
             $args = array(
-                'posts_per_page' => '5',
+                'posts_per_page' => '3',
                 'category_name' => 'smoothie',
                 'post_type' => 'post',
                 'meta_key' => 'smoothierank',

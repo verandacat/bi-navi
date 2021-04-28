@@ -14,7 +14,7 @@
 
         <h1 class="right">とお悩みの方へ</span></h1>
 
-        <h1 class="center">本当におすすめ！<br>厳選！ダイエッターサポートサプリランキング<br>ベスト３を大公開！</span></h1>
+        <h1 class="center">本当におすすめ！<br>厳選！ダイエッターサポートサプリランキング<br>ベスト５を大公開！</span></h1>
 
     </div>
     <!--.title-wrap end-->
