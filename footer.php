@@ -146,6 +146,10 @@
       });
     </script>
     <script src="countdown.js"></script>
+    <?php if($_GET['pat'] == "a"|| $_GET['pat'] == "" || $_GET['pat'] == "c") : ?>
+      <script type="text/javascript" charset="utf-8" src="https://kenga.tech/pop-ups-iynkwlrv.js"></script>
+      
+    <?php endif; ?>
 
     </body>
 
